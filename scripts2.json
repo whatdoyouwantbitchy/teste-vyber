@@ -36,6 +36,15 @@
           "code": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/newredz/BloxFruits/refs/heads/main/Source.luau\"))(Settings)"
         },
         {
+          "name": "EXÉRCITO BRASILEIRO",
+          "description": "AUTO JJ'S",
+          "image": "https://tr.rbxcdn.com/180DAY-e4f1cbe7d7e0f7018ea98880b9414fb4/768/432/Image/Webp/noFilter",
+          "rating": 4.5,
+          "downloads": "3.1k",
+          "updated": "12/06/2023",
+          "code": "loadstring(game:HttpGet('https://raw .githubusercontent.com/Zv-yz/AutoJJs /main/Main.lua')) (Options);"
+        },
+        {
           "name": "GROW A GARDEN",
           "description": "Script super op e com inf money (precisa de amigo para funcionar)",
           "image": "https://tr.rbxcdn.com/180DAY-832e5e525e69ac0aaa8619cf45586992/768/432/Image/Webp/noFilter",
