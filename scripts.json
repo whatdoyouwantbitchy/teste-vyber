@@ -41,6 +41,20 @@
           "code": "loadstring(game:HttpGet\"https://raw.githubusercontent.com/Laelmano24/Rael-Hub/main/main.txt\")()"
         }
       ]
+    },
+    {
+      "name": "Combate",
+      "scripts": [
+        {
+          "name": "SCRIPT MURDER MYSTERY 2 - XHUB",
+          "description": "Script FUNCIONANDO EM QUASE TRODOS OS EXECUTORES!!! APROVEITE.",
+          "image": "https://tr.rbxcdn.com/180DAY-9712501c7ff29c2243d0fd3bfb47d93d/768/432/Image/Webp/noFilter",
+          "rating": 4.5,
+          "downloads": "3.1k",
+          "updated": "12/06/2023",
+          "code": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/newredz/BloxFruits/refs/heads/main/Source.luau\"))(Settings)"
+        }
+      ]
     }
   ]
 }
