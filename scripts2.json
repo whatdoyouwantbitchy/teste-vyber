@@ -34,6 +34,24 @@
           "downloads": "3.1k",
           "updated": "12/06/2023",
           "code": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/newredz/BloxFruits/refs/heads/main/Source.luau\"))(Settings)"
+        },
+        {
+          "name": "GROW A GARDEN",
+          "description": "Script super op e com inf money (precisa de amigo para funcionar)",
+          "image": "https://tr.rbxcdn.com/180DAY-832e5e525e69ac0aaa8619cf45586992/768/432/Image/Webp/noFilter",
+          "rating": 4.5,
+          "downloads": "3.1k",
+          "updated": "12/06/2023",
+          "code": "loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/NoLag-id/No-Lag-HUB/refs/heads/main/Loader/LoaderV1.lua"))()"
+        },
+        {
+          "name": "DEAD RAILS",
+          "description": "SCRIPT AUTO BOND",
+          "image": "https://tr.rbxcdn.com/180DAY-280e0d6ad3abb19334119f1bedd13a6f/768/432/Image/Webp/noFilter",
+          "rating": 4.5,
+          "downloads": "3.1k",
+          "updated": "12/06/2023",
+          "code": "loadstring(game:HttpGet('https://raw.githubusercontent.com/m00ndiety/Keyless-auto-bonds/refs/heads/main/obfuscated%20(6).txt'))()"
         }
       ]
     },
