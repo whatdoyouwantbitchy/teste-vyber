@@ -1,0 +1,22 @@
+{
+  "scripts": [
+    {
+      "name": "SCRIPT ARSENAL - VAPA V2",
+      "description": "Script desse video aqui: https://www.youtube.com/watch?v=LLYOG_4ravI",
+      "image": "https://tr.rbxcdn.com/180DAY-a8abe703dec5b81538e04a714ab7dca4/768/432/Image/Webp/noFilter",
+      "rating": 4.9,
+      "downloads": "2.4k",
+      "updated": "10/06/2023",
+      "code": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Nickyangtpe/Vapa-v2/refs/heads/main/Vapav2-Arsenal.lua\", true))()\n\n-- FUNÇÕES ADICIONAIS\nlocal function antiAfk()\n    local virtualUser = game:GetService(\"VirtualUser\")\n    game:GetService(\"Players\").LocalPlayer.Idled:Connect(function()\n        virtualUser:CaptureController()\n        virtualUser:ClickButton2(Vector2.new())\n    end)\nend\nantiAfk()\n\n-- CONFIGURAÇÕES DE PERFORMANCE\nsettings().Rendering.QualityLevel = 1\ngame:GetService(\"Lighting\").GlobalShadows = false"
+    },
+    {
+      "name": "SCRIPT BROOKHAVEN - RAEL HUB",
+      "description": "Script muito OP e muito bom para vocês que querem Zoar no joguinho, funfando nas maioria dos executores kkk",
+      "image": "https://tr.rbxcdn.com/180DAY-d743ef79fbc0a90f9aea0bdf740cd00c/768/432/Image/Webp/noFilter",
+      "rating": 4.7,
+      "downloads": "1.8k",
+      "updated": "05/06/2023",
+      "code": "loadstring(game:HttpGet\"https://raw.githubusercontent.com/Laelmano24/Rael-Hub/main/main.txt\")()"
+    }
+  ]
+}
