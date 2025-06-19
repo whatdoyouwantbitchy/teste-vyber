@@ -11,6 +11,15 @@
           "downloads": "2.4k",
           "updated": "10/06/2023",
           "code": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Nickyangtpe/Vapa-v2/refs/heads/main/Vapav2-Arsenal.lua\", true))()\n\n-- FUNÇÕES ADICIONAIS\nlocal function antiAfk()\n    local virtualUser = game:GetService(\"VirtualUser\")\n    game:GetService(\"Players\").LocalPlayer.Idled:Connect(function()\n        virtualUser:CaptureController()\n        virtualUser:ClickButton2(Vector2.new())\n    end)\nend\nantiAfk()\n\n-- CONFIGURAÇÕES DE PERFORMANCE\nsettings().Rendering.QualityLevel = 1\ngame:GetService(\"Lighting\").GlobalShadows = false"
+        },
+        {
+          "name": "SCRIPT MURDER MYSTERY 2 - XHUB",
+          "description": "Script FUNCIONANDO EM QUASE TRODOS OS EXECUTORES!!! APROVEITE.",
+          "image": "https://tr.rbxcdn.com/180DAY-9712501c7ff29c2243d0fd3bfb47d93d/768/432/Image/Webp/noFilter",
+          "rating": 4.5,
+          "downloads": "3.1k",
+          "updated": "12/06/2023",
+          "code": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/newredz/BloxFruits/refs/heads/main/Source.luau\"))(Settings)"
         }
       ]
     },
