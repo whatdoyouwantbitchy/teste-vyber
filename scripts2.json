@@ -42,7 +42,7 @@
           "rating": 4.5,
           "downloads": "3.1k",
           "updated": "12/06/2023",
-          "code": "loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/NoLag-id/No-Lag-HUB/refs/heads/main/Loader/LoaderV1.lua"))()"
+          "code": "loadstring(game:HttpGetAsync(\"https://raw.githubusercontent.com/NoLag-id/No-Lag-HUB/refs/heads/main/Loader/LoaderV1.lua\"))()"
         },
         {
           "name": "DEAD RAILS",
@@ -65,7 +65,7 @@
           "rating": 4.7,
           "downloads": "1.8k",
           "updated": "05/06/2023",
-          "code": "loadstring(game:HttpGet\"https://raw.githubusercontent.com/Laelmano24/Rael-Hub/main/main.txt\")()"
+          "code": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Laelmano24/Rael-Hub/main/main.txt\"))()"
         }
       ]
     }
